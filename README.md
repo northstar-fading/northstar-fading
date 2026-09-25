@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, art, yknow anything related to computers and tech
 - 🌱 I’m currently learning python and a little bit of javascript
 - 📫 How to reach me, you can reach me on discord my user is northstarfading
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/him
 - ⚡ Fun fact: i wanna sleep
 
 <!---
